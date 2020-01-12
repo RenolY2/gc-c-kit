@@ -1,2 +1,0 @@
-$Example Gecko Cheat
-0400AABB 12345678

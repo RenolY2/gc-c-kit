@@ -1,0 +1,5 @@
+OSReport = 0x800e8078;
+GeographyObjManager__setKartHitItemBoxTrigger = 0x801F0AF4;
+ItemShuffleMgr__calcSlot = 0x8020CFEC;
+GeoItemCar__hitItemBoxProc = 0x8019A774;
+ItemObjMgr__occurItem = 0x8020929C;

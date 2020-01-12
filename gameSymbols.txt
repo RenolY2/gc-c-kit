@@ -1,3 +1,0 @@
-OSReport = 0x8008000;
-SomeFunction = 0x8009000;
-someGameHandlingFunction = 0x800A000;
